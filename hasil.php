@@ -26,7 +26,7 @@
       <div id="contentLeft">
 
         <p>
-          <span class="header">Data Karyawan</span>
+          <span class="header" style="font-size: 16px;">Data Karyawan</span>
         </p>
 
         <p>
@@ -36,7 +36,7 @@
         </p>
 
         <p>
-          <span class="header">SPK</span>
+          <span class="header" style="font-size: 16px;">SPK</span>
         </p>
         <p>
           <a href="kriteria_tambah.php" title="different colour scheme" class="menuItem">Inpt Nilai Kriteria</a>
